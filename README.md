@@ -12,7 +12,7 @@ N/A
 
 Open the webpage in your browser by following this link: https://tamzinc.github.io/challenge_week1/. It should open up a webpage that looks like this:
 
-<img width="1792" alt="Screenshot 2022-10-24 at 21 55 59" src="https://user-images.githubusercontent.com/115940593/197627871-de0c92d6-4693-4642-9ca8-814906c4a6b7.png"> 
+<img width="1792" alt="Screenshot 2022-10-24 at 22 07 59" src="https://user-images.githubusercontent.com/115940593/197629726-c30faeff-c59c-41e8-863f-802d8d20a897.png"> 
 
 Next, open Chrome DevTools to view the optimised code. To do this you can either right-click and select the 'Inspect' option, or use shortcuts Command+Option+I (for macOS) or Control+Shift+I (for Windows). This will bring up a console either to left or bottom of your webpage in the browser where you will be able to review the code. You should be able to see something similar to this:
 
